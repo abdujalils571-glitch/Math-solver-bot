@@ -1,5 +1,8 @@
+--only-binary=:all:
+
 aiogram==3.13.0
 google-generativeai==0.8.3
 Pillow==10.4.0
 python-dotenv==1.0.1
-pydantic==1.10.21
+pydantic==2.7.4
+pydantic-core==2.18.4
